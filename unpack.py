@@ -1,6 +1,4 @@
-import sys, getopt, os, zipfile
-
-import olefile
+import sys, getopt, os, zipfile, olefile
 
 # Current path
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))

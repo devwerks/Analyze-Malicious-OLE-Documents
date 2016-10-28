@@ -1,5 +1,6 @@
 import sys, getopt, os, zipfile, olefile
 
+import jsbeautifier
 # Current path
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 
